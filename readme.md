@@ -1,4 +1,4 @@
-# Lorem Ipsum Generator Extenstion for Google chrome
+# Lorem Ipsum Generator Extension for Google chrome
 This extension uses  http://asdfast.beobit.net/api/ api to generate lorem ipsum text
 
 <img src="/showcase.png" alt="Show case image">
